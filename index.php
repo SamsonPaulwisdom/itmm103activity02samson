@@ -76,5 +76,29 @@ for ($x = 5; $x >= 0; $x--){
 ?>
 
 </p>
+
+
+<h1>BONUS FOR (20PTS)</h1>
+
+<p>
+	<h1>Your Data !</h1>
+
+	<br>
+	
+Welcome <?php echo $_POST["name"]; ?><br>
+Your Name is: <?php echo $_POST["name"]; ?>
+<br>
+Date of Birth is: <?php echo $_POST["dateofbirth"] ?>
+<br>
+Address : <?php echo $_POST["address"]; ?>
+<br>
+
+Email : <?php echo $_POST["email"]; ?>
+<br>
+
+</p>
+
+
+
 </body>
 </html>
