@@ -78,6 +78,8 @@ for ($x = 5; $x >= 0; $x--){
 </p>
 
 
+<h1>BONUS POINT! (20PTS)</h1>
+
 <form action="https://formssamson.herokuapp.com/" method="post">
 
 		Name: <input type="text" name="name">
